@@ -1,0 +1,7 @@
+#https://github.com/RadiusNetworks/bluez/blob/master/test/monitor-bluetooth
+
+#https://dbus.freedesktop.org/doc/dbus-python/doc/tutorial.html#setting-up-an-event-loop
+
+#https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=85101
+
+#http://smartspacestuff.blogspot.co.uk/2016/02/i-got-figurin-out-dbus-bluez.html
